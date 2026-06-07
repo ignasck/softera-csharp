@@ -53,22 +53,20 @@ A clean-code C# (.NET) console application built as a technical assignment for t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TAVO_GITHUB_VARDAS/softera-task.git
+git clone https://github.com/ignasck/softera-task.git
 ```
-
-> Nepamiršk pakeisti `TAVO_GITHUB_VARDAS` į savo tikrąjį GitHub naudotojo vardą.
 
 ### 2. Build the Solution
 
-Atidaryti `softera-task.sln` Visual Studio 2022 ir paspausti `Ctrl + Shift + B`.
+Open `softera-task.sln` in Visual Studio 2022 and press `Ctrl + Shift + B`.
 
 ### 3. Run the Application
 
-Paspausti `Ctrl + F5`. Programa apdoros įvesties failus ir sugeneruos ataskaitą `results.txt`.
+Press `Ctrl + F5`. The application will process the input files and generate the report in `results.txt`.
 
 ### 4. Run Unit Tests
 
-Atidaryti Test Explorer (`Ctrl + R, T`) ir spausti **Run All**.
+Open Test Explorer (`Ctrl + R, T`) and click **Run All**.
 
 ---
 
